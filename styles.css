@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+  }
+  
+  .sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .btn {
+    display: block;
+    width: 50px; /* Adjust the width as desired */
+    height: 100px; /* Adjust the height as desired */
+    margin-bottom: 10px;
+    border-radius: 10px; /* Adjust the border-radius value as desired */
+  }
+  
+  .btn:hover {
+    background-color: #ddd;
+  }
+  
+  .green {
+    background-color: #00ff00;
+  }
+  
+  .blue {
+    background-color: #0000ff;
+  }
+  
+  .red {
+    background-color: #ff0000;
+  }
+  
+  .black {
+    background-color: #000;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  .description {
+    text-align: right;
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+  }
